@@ -1,4 +1,4 @@
-class testSourceTree{
+class TestCommit{
     fun doTest(){
       //第一次编辑
     }
