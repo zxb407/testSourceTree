@@ -4,4 +4,8 @@ var name:String?=null
     fun doTest(){
       //第一次编辑
     }
+	
+	fun doTest1(){
+//增加函数 doTest1
+}
 }
