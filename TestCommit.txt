@@ -1,4 +1,6 @@
 ﻿class TestCommit{
+//增加成员变量 姓名
+var name:String?=null
     fun doTest(){
       //第一次编辑
     }
