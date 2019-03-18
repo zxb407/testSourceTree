@@ -8,4 +8,8 @@ var name:String?=null
 	fun doTest1(){
 //增加函数 doTest1
 }
+
+	fun doTest3(){
+//增加函数 doTest3
+}
 }
